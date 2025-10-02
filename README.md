@@ -42,5 +42,5 @@ Check out the live version here: [Memory Lane Live](https://memory-lane.vercel.a
 ## **How to Run Locally**
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/memory-lane.git
+git clone https://github.com/yashtiwari10/memory-lane.git
 >>>>>>> 9de76d455590b37988d7733062299faa4e4c5532
