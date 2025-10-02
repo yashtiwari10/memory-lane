@@ -1,0 +1,11 @@
+body { font-family: Arial,sans-serif; background:#f9f9f9; margin:0; padding:0; }
+.app-container { max-width:800px; margin:auto; padding:20px; }
+h1,h2 { text-align:center; }
+.upload-form { display:flex; gap:10px; justify-content:center; margin-bottom:20px; }
+.upload-form input[type="text"] { flex:1; padding:8px; }
+.upload-form button { padding:8px 12px; }
+.timeline-card { background:white; border-radius:10px; box-shadow:0 2px 5px rgba(0,0,0,0.1); padding:15px; margin-bottom:10px; }
+.card-photo { width:100%; border-radius:5px; margin:10px 0; }
+.card-header { display:flex; justify-content:space-between; margin-bottom:10px; }
+.mood.happy{color:#4CAF50;} .mood.neutral{color:#FFC107;} .mood.sad{color:#F44336;}
+.mood-graph,.summary-card{background:white; border-radius:10px; box-shadow:0 2px 5px rgba(0,0,0,0.1); padding:15px; margin:15px 0;}
